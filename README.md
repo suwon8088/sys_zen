@@ -1,3 +1,4 @@
+## suwon8088/sys_zen v.29240603 
 ## How to Create a Magisk Module
 1. Clone / download this repo
 2. Open `config.sh`, follow the instructions written at the beginning of the file. You should at least change `config.sh` and `module.prop`
